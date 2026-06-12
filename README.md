@@ -1,135 +1,150 @@
-<h1 align="center">Hi 👋, I'm Anuj</h1>
+<!-- # <h1>Hi 👋, I'm Anuj<h1> -->
 
-<h3 align="center">
-Aspiring DevOps & Cloud Engineer | AWS | Terraform | Docker | Kubernetes
-</h3>
+### Aspiring DevOps & Cloud Engineer
 
-<p align="center">
-Passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices.
-</p>
+I am a Computer Science student passionate about Cloud Computing, DevOps, Infrastructure Automation, and System Design. I enjoy building scalable infrastructure, automating deployments, and continuously improving my skills through hands-on learning and real-world projects.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
-- ☁️ Focused on Cloud Computing & DevOps Engineering
-- 🏗️ Building Infrastructure as Code using Terraform
-- 🐳 Working with Docker and containerized applications
-- ☸️ Learning and deploying workloads on Kubernetes
-- 🔄 Building CI/CD pipelines using Jenkins and GitHub Actions
-- 📊 Implementing Monitoring & Observability with Prometheus & Grafana
-- 🐧 Linux enthusiast with hands-on server administration experience
+- ☁️ Learning Cloud & DevOps Engineering
+- 🐧 Passionate about Linux and Infrastructure Management
+- 🏗️ Building Infrastructure as Code (IaC) using Terraform
+- 🐳 Working with Docker and Container Technologies
+- ☸️ Exploring Kubernetes and Container Orchestration
+- 🔄 Learning CI/CD practices with Jenkins
+- 📊 Implementing Monitoring using Prometheus and Grafana
+- 📚 Continuously learning Cloud Architecture and System Design
 
 ---
 
 ## 🚀 DevOps Roadmap Progress
 
-- ✅ Linux Fundamentals
-- ✅ Git & GitHub
-- ✅ AWS Core Services
-- ✅ Docker
-- ✅ Terraform
-#- 🔄 Kubernetes
-#- 🔄 Jenkins
-#- 🔄 Grafana
-#- 🔄 Promithius
-#- ⏳ Helm
-#- ⏳ Advanced CI/CD
-#- ⏳ System Design
-#- ⏳ Cloud Architecture
+| Technology | Status |
+|------------|---------|
+| Linux | ✅ Completed |
+| Git & GitHub | ✅ Completed |
+| AWS Fundamentals | ✅ Completed |
+| Docker | ✅ Completed |
+| Terraform | ✅ Completed |
+| Jenkins | 🔄 In Progress |
+| Prometheus | 🔄 In Progress |
+| Grafana | 🔄 In Progress |
+| Kubernetes | 🔄 In Progress |
+| Helm | 📖 Learning |
+| System Design | 📖 Learning |
+| Cloud Architecture | 📖 Learning |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+- AWS
 
 ### DevOps & Automation
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
 
-### Monitoring
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### Monitoring & Observability
+- Prometheus
+- Grafana
 
-### Operating Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Version Control
+- Git
+- GitHub
+
+### Operating Systems
+- Linux
+
+### Programming & Scripting
+- Python
+- Bash
 
 ---
+
 ## 💡 Areas of Interest
 
-- Cloud Computing
 - DevOps Engineering
+- Cloud Computing
 - Infrastructure as Code (IaC)
+- CI/CD Automation
 - Containerization
 - Kubernetes Orchestration
-- CI/CD Automation
 - Monitoring & Observability
 - Site Reliability Engineering (SRE)
-- Cloud Architecture
 - System Design
-
----
-
-## 🎯 Current Focus
-
-- Learning Kubernetes Architecture & Administration
-- Building CI/CD Pipelines with Jenkins
-- Infrastructure Automation using Terraform
-- Monitoring Applications with Prometheus & Grafana
-- Exploring Helm and Kubernetes Package Management
-- Studying Cloud & Infrastructure Design Patterns
-
----
+- Cloud Architecture
 
 ---
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Annny-tech&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annny-tech&show_icons=true&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annny-tech&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Annny-tech&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annny-tech&layout=compact&theme=github_dark)
 
 ---
 
 ## 🎯 Current Focus
 
 - Kubernetes Administration
-- Helm Package Management
-- Cloud Architecture Design
+- Production-Ready CI/CD Pipelines
 - Infrastructure Automation
-- Production-Grade CI/CD Pipelines
-- Monitoring & Observability
+- Cloud-Native Technologies
+- Helm Package Management
+- Monitoring and Observability
+- Cloud Architecture & System Design
 
 ---
 
 ## 📚 Learning Journey
 
 ```text
-Linux → Git → AWS → Docker → Terraform
-                         ↓
-                     Jenkins
-                         ↓
-                  Prometheus
-                         ↓
-                     Grafana
-                         ↓
-                    Kubernetes
-                         ↓
-                       Helm
-                         ↓
-                 Cloud Architecture
+Linux
+  ↓
+Git & GitHub
+  ↓
+AWS
+  ↓
+Docker
+  ↓
+Terraform
+  ↓
+Jenkins
+  ↓
+Prometheus & Grafana
+  ↓
+Kubernetes
+  ↓
+Helm
+  ↓
+System Design
+  ↓
+Cloud Architecture
+```
+
+---
+
+## 📖 Currently Exploring
+
+- Kubernetes Architecture
+- Helm Charts
+- AWS Best Practices
+- Infrastructure Design
+- Scalability Patterns
+- Reliability Engineering
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/Annny-tech
+
+---
+
+> "Learning by building, automating, and continuously improving."
