@@ -62,40 +62,31 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 💡 Areas of Interest
 
-## 📂 Featured Projects
-
-### ☁️ AWS Infrastructure Projects
-- VPC Design & Configuration
-- EC2 Deployment Automation
-- IAM Security Management
-- S3 Storage Solutions
-- Auto Scaling & Load Balancing
-
-### 🏗️ Terraform Projects
+- Cloud Computing
+- DevOps Engineering
 - Infrastructure as Code (IaC)
-- Reusable Terraform Modules
-- Multi-Tier AWS Infrastructure
-- VPC, EC2, Security Group Automation
+- Containerization
+- Kubernetes Orchestration
+- CI/CD Automation
+- Monitoring & Observability
+- Site Reliability Engineering (SRE)
+- Cloud Architecture
+- System Design
 
-### 🐳 Docker Projects
-- Custom Docker Images
-- Multi-Container Applications
-- Docker Networking
-- Docker Volumes & Persistence
+---
 
-### ☸️ Kubernetes Projects
-- Deployments & ReplicaSets
-- Services & Ingress
-- ConfigMaps & Secrets
-- Persistent Storage
-- Production-Ready Cluster Deployments
+## 🎯 Current Focus
 
-### 📊 Monitoring Stack
-- Prometheus Metrics Collection
-- Grafana Dashboards
-- Alerting & Monitoring
-- Infrastructure Observability
+- Learning Kubernetes Architecture & Administration
+- Building CI/CD Pipelines with Jenkins
+- Infrastructure Automation using Terraform
+- Monitoring Applications with Prometheus & Grafana
+- Exploring Helm and Kubernetes Package Management
+- Studying Cloud & Infrastructure Design Patterns
+
+---
 
 ---
 
