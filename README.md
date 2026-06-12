@@ -30,14 +30,14 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 - ✅ AWS Core Services
 - ✅ Docker
 - ✅ Terraform
-- 🔄 Jenkins
-- 🔄 Prometheus
-- 🔄 Grafana
-- 🔄 Kubernetes
-- ⏳ Helm
-- ⏳ Advanced CI/CD
-- ⏳ System Design
-- ⏳ Cloud Architecture
+# - 🔄 Jenkins
+# - 🔄 Prometheus
+# - 🔄 Grafana
+# - 🔄 Kubernetes
+# - ⏳ Helm
+# - ⏳ Advanced CI/CD
+# - ⏳ System Design
+# - ⏳ Cloud Architecture
 
 ---
 
