@@ -35,7 +35,7 @@ I am a Computer Science student passionate about Cloud Computing, DevOps, Infras
 | Kubernetes | 🔄 In Progress |
 | Helm | 📖 Learning |
 | System Design | 📖 Learning |
-| Cloud Architecture | 📖 Learning |
+| Cloud Architecture |🔄 In Progress |
 
 ---
 
