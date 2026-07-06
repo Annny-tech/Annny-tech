@@ -82,14 +82,6 @@ I am a Computer Science student passionate about Cloud Computing, DevOps, Infras
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annny-tech&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Annny-tech&layout=compact&theme=github_dark)
-
----
-
 ## 🎯 Current Focus
 
 - Kubernetes Administration
