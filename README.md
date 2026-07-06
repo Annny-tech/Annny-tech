@@ -1,4 +1,4 @@
- # Hi 👋, I'm Anuj 
+# Hi 👋, I'm Anuj 
 
 ### Aspiring DevOps & Cloud Engineer
 
